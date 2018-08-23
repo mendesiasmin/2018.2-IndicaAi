@@ -6,6 +6,11 @@
     "layout": "post"
   },
   {
+    "text": "Membros",
+    "url": "/members/",
+    "icon": "fa-users"
+  },
+  {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"

@@ -1,11 +1,11 @@
 title: RecomendaFGA
 description: Compartilhe com a gente os locais que você gosta de ir no tempo livre da FGA.
-author: 2018 EPS-MDS
-logo: /hcz-jekyll-blog/static/img/avatar.png
+author: Recomenda FGA
+logo: /assets/placeholder.png
 github: https://github.com/fga-eps-mds/RecomendaFGA
-about: Freelance developer
+about: 2018 EPS / MDS
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: ""
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
 allowsearch: false
