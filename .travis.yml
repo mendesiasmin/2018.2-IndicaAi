@@ -1,8 +1,4 @@
-language: ruby
-
-rvm:
-    - 2.5.1
-    - jruby
+language: ruby-2.5.1
 
 install:
     - gem install bundler
