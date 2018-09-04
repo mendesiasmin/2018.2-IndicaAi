@@ -1,4 +1,8 @@
-# Configure docker-compose
+sudo: required
+
+services:
+    - docker
+
 env:
     - DOCKER_COMPOSE_VERSION=3
 
@@ -8,3 +12,6 @@ before_install:
     - chmod +x docker-compose
     - sudo mv docker-compose /usr/local/bin
 
+script:
+    - docker-compose build
+    - docker-compose run test
