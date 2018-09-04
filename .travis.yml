@@ -1,0 +1,9 @@
+language: ruby
+
+rvm:
+    - 2.5.1
+
+install:
+    - gem install bundler
+    - cd indicaAi
+    - bundler install
