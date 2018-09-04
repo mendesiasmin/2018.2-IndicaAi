@@ -28,3 +28,7 @@ plugins:
     checks:
         Rubocop/Metrics/CyclomaticComplexity:
             enabled: true
+  flog:
+      enabled: true
+      config:
+        score_threshold: 20.0
