@@ -2,7 +2,7 @@
 
 O IndicaAi é uma API para recomendação dos mais diversos locais próximos ao Campus Gama da UnB. Ele funciona como um microserviço, pelo qual qualquer um que estude, trabalhe ou visite a FGA possa ter acesso por meio do FGA App. A API é desenvolvida na Universidade de Brasília, por alunos do curso de Engenharia de Software dentro das disciplinas de Métodos de Desenvolvimento de Software e Engenharia de Produto de Software.
 
-[Documentação do Projeto](documentacao)
+[Documentação do Projeto](https://fga-eps-mds.github.io/2018.2-IndicaAi/)
 
 ## Começando com o IndicaAi
 
@@ -25,9 +25,8 @@ Se for necessário acessar o terminal do _container_ que roda a aplicação, o s
 
 ## Como contribuir
 
-Quer contribuir com o nosso projejto? Veja o nosso [Guia de Contribuição](como-contribuir).
+Quer contribuir com o nosso projejto? Veja o nosso [Guia de Contribuição](https://github.com/fga-eps-mds/2018.2-IndicaAi/blob/devel/CONTRIBUTING.md).
 
 ## Conduta de Código
 
-[como-contribuir](CONTRIBUTING.md)
-[documentacao][https://fga-eps-mds.github.io/2018.2-IndicaAi/]
+Acesse o nosso [Código de Conduta](https://github.com/fga-eps-mds/2018.2-IndicaAi/blob/devel/CODE_OF_CONDUCT.md) e saiba como é a nossa política de relacionamento.
