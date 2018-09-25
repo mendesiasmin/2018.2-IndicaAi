@@ -1,0 +1,18 @@
+{
+  "name": "2018.2-IndicaAi",
+  "scripts": {
+  },
+  "env": {
+    "PROJECT_PATH": "indicaAi"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
